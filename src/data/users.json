@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Alice",
+		"email": "alice@sell.com",
+		"role": "seller"
+	},
+	{
+		"name": "Bob",
+		"email": "bob@buy.com",
+		"role": "buyer"
+	},
+	{
+		"name": "Admin",
+		"email": "admin@shop.com",
+		"role": "admin"
+	}
+]
